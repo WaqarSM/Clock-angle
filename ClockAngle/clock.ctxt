@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=clock
+comment0.text=\n\ Write\ a\ description\ of\ class\ clock\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=hour_in\ mint_in
+comment1.target=clock(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ clock\n
+comment2.params=_hour\ _min
+comment2.target=double\ angleBtween(double,\ double)
+numComments=3
