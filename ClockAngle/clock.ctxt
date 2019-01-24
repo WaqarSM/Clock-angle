@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=clock
-comment0.text=\n\ Write\ a\ description\ of\ class\ clock\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\nCalculate\ the\ angle\ between\ the\ Hour\ and\ Mintue\ hand\ on\ a\ clock.\n
 comment1.params=hour_in\ mint_in
 comment1.target=clock(double,\ double)
 comment1.text=\n\ Constructor\ for\ objects\ of\ class\ clock\n

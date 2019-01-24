@@ -19,12 +19,12 @@ public class clock
 
         if (_hour>12 | _hour<0){
             System.out.printf("Please enter an hour which is between 1 and 12. %n");
-
+            System.exit(0);
         }
 
         if (_min>60 | _min<0){
             System.out.printf("Please enter an mintue which is between 0 and 60. %n");
-
+            System.exit(0);
         }
         double min_ang = (_min)*6;
         double hour_ang = ((_hour )*30)+(_min*30/60);
